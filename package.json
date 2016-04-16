@@ -14,10 +14,9 @@
   "author": "james@womack.io",
   "license": "ISC",
   "devDependencies": {
-    "esprima-fb": "15001.1.0-dev-harmony-fb",
     "is-object": "1.0.1",
-    "mocha": "2.2.5",
-    "package-json-to-readme": "1.4.1"
+    "mocha": "2.4.5",
+    "package-json-to-readme": "1.5.1"
   },
   "dependencies": {
     "amp-is-undefined": "1.0.1",
